@@ -51,4 +51,6 @@ This project provides a command-line application interface to manage content, sp
 
 For a detailed walkthrough of setting up and using this backend, please refer to the provided video walkthrough.
 
+https://github.com/k-pineda/Employee_Tracker/assets/128410226/dfb957af-bb88-49cb-bc37-0263a6deaeee
+
 Happy managing!
